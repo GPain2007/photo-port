@@ -10,11 +10,7 @@ function Nav(props) {
   return (
     <header className="flex-row px-1">
       <h2>
-<<<<<<< HEAD
-        <a href="/" data-testid="link">
-=======
         <a data-testid="link" href="/">
->>>>>>> feature/gallery
           <span role="img" aria-label="camera">
             {" "}
             📸
@@ -25,11 +21,7 @@ function Nav(props) {
       <nav>
         <ul className="flex-row">
           <li className="mx-2">
-<<<<<<< HEAD
-            <a href="#about" data-testid="about">
-=======
             <a data-testid="about" href="#about">
->>>>>>> feature/gallery
               About me
             </a>
           </li>
